@@ -1,0 +1,5 @@
+example@mail.com
+error.mail.ru
+privet.com@ru
+go_od_address@gmail.ru
+123@example.narod.edu
